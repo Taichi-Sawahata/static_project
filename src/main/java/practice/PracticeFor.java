@@ -2,7 +2,7 @@ package practice;
 
 public class PracticeFor {
 		
-	public void hundredSum() {
+	public void printHundredSum() {
 		
 		int num = 0;
 		

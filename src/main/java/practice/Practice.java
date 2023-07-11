@@ -11,7 +11,7 @@ public class Practice {
 		practiceDoWhile.printCountDown();
 		
 		PracticeFor practiceFor = new PracticeFor();
-		practiceFor.hundredSum();
+		practiceFor.printHundredSum();
 		
 		PracticeForEach practiceForEach = new PracticeForEach();
 		practiceForEach.printNames();
