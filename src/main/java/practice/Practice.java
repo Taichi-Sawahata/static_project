@@ -7,20 +7,20 @@ public class Practice {
 		PracticeWhile practiceWhile = new PracticeWhile();
 		practiceWhile.printCountDown();
 		
-//		PracticeDoWhile practiceDoWhile = new PracticeDoWhile();
-//		practiceDoWhile.printCountDown();
+		PracticeDoWhile practiceDoWhile = new PracticeDoWhile();
+		practiceDoWhile.printCountDown();
 		
-//		PracticeFor practiceFor = new PracticeFor();
-//		practiceFor.hundredSum();
+		PracticeFor practiceFor = new PracticeFor();
+		practiceFor.hundredSum();
 		
-//		PracticeForEach practiceForEach = new PracticeForEach();
-//		practiceForEach.printNames();
+		PracticeForEach practiceForEach = new PracticeForEach();
+		practiceForEach.printNames();
 		
-//		PracticeIf practiceIf = new PracticeIf();
-//		practiceIf.printFizzBuzz();
+		PracticeIf practiceIf = new PracticeIf();
+		practiceIf.printFizzBuzz();
 		
-//		PracticeSwitch practiceSwitch = new PracticeSwitch();
-//		practiceSwitch.printJobNames();
+		PracticeSwitch practiceSwitch = new PracticeSwitch();
+		practiceSwitch.printJobNames();
 		
 	}
 }
