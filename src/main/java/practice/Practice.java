@@ -23,4 +23,5 @@ public class Practice {
 		practiceSwitch.printJobNames();
 		
 	}
+	
 }
